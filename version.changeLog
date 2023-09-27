@@ -1,0 +1,37 @@
+1.7;
+- @Redesigned Charting State@
+- @Redesigned DiscordRPC@
+- @Added changeable elements, reworked, and moved to the images folder@
+- @DiscordRPC can now be changed without the need for Lua or code@
+- @Improved Week Editor@
+- @Reworked loading screen@
+- @Improved Dialogue Editor and Portrait Editor@
+- @Redesigned Freeplay@
+- @Added Extras Menu and BSide Menu to Freeplay@
+- @Added custom songs and videos per week@
+- @Added some base events@
+- @Redesigned notes animation code@
+- @Added Easter Eggs@
+- @Fixed icons positions@
+- @Fixed healthbar position@
+- @Optimized/changed the Story Mode Videos System@
+- @Fixed note texture and improved accuracy slightly@
+- @Disabled red color for FPS drops@
+- @Maximum of 7 characters per song without Lua functions@
+- @Added FPS Plus & Renewed HUD@
+- @Now you can modify the health system from the settings@
+- @Added Gamma, Brightness & Colorblind Options@
+- @Some settings have been rewritten for better clarity@
+- @Changed the game's icon@
+- @Added theme music for pause menu@
+- @Re-added unused sound from the original Corruption for pixel menus@
+- @Now it is easier to distinguish your selection in the pixel menus@
+- @Added CamExtra & CamUpper@
+- @Added the ability to play videos on in-game cameras@
+- @Now you can configure the position of the floating rating from the stage's JSON@
+- @An option has been added to set the classic note position@
+- @The title screen has been updated to resemble the original more closely@
+- @Starting the song will no longer show the camera flying instead, it will already be focused on the game@
+- @Some assets have been updated@
+- @More info and explications on Discord Server@
+
