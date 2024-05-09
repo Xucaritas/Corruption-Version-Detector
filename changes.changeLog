@@ -1,0 +1,36 @@
+All Menus UPDATED!
+Ported Demo Weeks
+Spookys Week Re-Charted on HARD
+Some features of Psych 0.7 Stages have been added
+Icon Pos Fixed
+Alphabet from 0.7
+Demo Alphabet Recreated and Updated
+Auto Video Cutscenes 
+Old Freeplay Arrow Start Animation Added
+Disabled Cutscenes on Freeplay
+Credits Fixed
+Full Credits are now on a TXT to edit in data folder
+Auto Start Pixel Dialogues
+Dialogue Pixel System Re Added and Remaded
+You Can Separate Vocals Per Character
+Old Sing Duration added (only on singDuration: 0 per character)
+OG Transitions
+Skip Countdown now skip the intro
+Re Added Scroll On Menu's with Mouse
+All Menus Have Been Fully Reworked
+Default Psych Assets Have Been Updated
+Pixel Notes Splashes Added
+Now you can adjust the antialiasing for menu characters
+Icon Bops Fixed
+Multiple Character system fixed
+Shader System Fixed
+The Video System now work with HxVLC (Thanks MAJigsaw77)!
+Some changeables have been removed, fixed, and added
+Pre-shaders on the engine have been removed
+Fully Optimized
+Crash Handler Added
+Easter Egg Screen Removed...
+Secrets Added
+Support for Hscript
+MORE Lua Functions Added
+
